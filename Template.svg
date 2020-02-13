@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg version="1.0" 
+	id="glyph_A" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0px"
+	y="0px"
+	width="56px" 
+	height="92px">
+<g id="A">
+<path style="fill:#000000;stroke-width:0px" d="M56 10 C42 10 14 10 0 10 C0 9 0 7 0 6 C14 6 42 6 56 6 C56 7 56 9 56 10 zM0 74 C14 74 42 74 56 74 Q55.999 74 55.9995 75.5 Q56 77 56 78 C42 78 14 78 0 78 C0 77 0 75 0 74 zM0 110 C0 109 0 107 0 106 C14 106 42 106 56 106 C56 107 56 109 56 110 C42 110 14 110 0 110 z" id="path_A_0" />
+</g>
+</svg>
